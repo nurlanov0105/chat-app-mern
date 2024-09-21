@@ -17,7 +17,9 @@
    git clone <repository-url>
    cd chat-app
 2. Install and Build the application:
+    ```bash
    npm run build
 
 4. Start the server:
+    ```bash
    npm run start
