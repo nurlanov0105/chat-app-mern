@@ -14,8 +14,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd chat-app
+   git clone https://github.com/nurlanov0105/chat-app-mern.git
+   cd chat-app-mern
 2. Install and Build the application:
     ```bash
    npm run build
